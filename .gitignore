@@ -221,3 +221,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Sephora dataset files
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large datasets
+data/raw/
+data/processed/
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local logs
+*.log
+
+# macOS
+.DS_Store
